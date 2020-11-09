@@ -7,3 +7,5 @@
   :basketball: Should I Still Be Programmer After 40 - https://dzone.com/articles/is-software-development-really-a-dead-end-job-afte
   
   :star: How To Replace Many If Statements In Java - https://www.baeldung.com/java-replace-if-statements
+  
+  :gem: Common Types Of OOP Relationships & Their UML Representation - https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27
